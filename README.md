@@ -7,9 +7,11 @@
 ## Definition
 ARP Spoofing Detection System is a network security application that monitors ARP (Address Resolution Protocol) traffic to detect malicious attempts where an attacker tries to associate their MAC address with a legitimate IP address. The system alerts the user when spoofing activity is detected and provides real-time monitoring through a graphical interface.
 
+
 <p align="center">
        <img src="https://github.com/user-attachments/assets/aa714d18-0fd1-4ca2-84f8-d47d27ae60a4" alt="demo" width=600>
 </p>
+
 ---
 
 ## Project Objective
@@ -41,6 +43,8 @@ cd ARP-SPOOFING-DETECTOR
 <p align="center">
        <img width="1024" height="564" alt="image_2026-01-10_22-25-00" src="https://github.com/user-attachments/assets/5dc652d8-e85c-4949-8b45-4e5991471f48">
 </p>
+
+---
 
 ## Libraries Used 
 
