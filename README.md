@@ -1,7 +1,10 @@
 # ARP-SPOOOFING-DETECTOR
+<p align="center">
+       <img width="1280" height="674" alt="image_2026-01-10_22-25-10" src="https://github.com/user-attachments/assets/95e0ff92-1744-482a-8e30-f7312b105433">
+</p>
 
 <p align="center">
-       <img src="https://github.com/user-attachments/assets/aa714d18-0fd1-4ca2-84f8-d47d27ae60a4" alt="demo" width=800>
+       <img src="https://github.com/user-attachments/assets/aa714d18-0fd1-4ca2-84f8-d47d27ae60a4" alt="demo" width=600>
 </p>
 
 ## Definition
@@ -35,6 +38,9 @@ cd ARP-SPOOFING-DETECTOR
     python main.py
 
 ---
+<p align="center">
+       <img width="1024" height="564" alt="image_2026-01-10_22-25-00" src="https://github.com/user-attachments/assets/5dc652d8-e85c-4949-8b45-4e5991471f48">
+</p>
 
 ## Libraries Used 
 
@@ -73,7 +79,9 @@ cd ARP-SPOOFING-DETECTOR
 - Simulation mode allows safe demonstration of attacks.
 
 ---
-![Image](https://github.com/user-attachments/assets/a9aa0ad4-ffba-4fb0-9405-386f017e020a)
+<p align="center">
+       <img src="https://github.com/user-attachments/assets/a9aa0ad4-ffba-4fb0-9405-386f017e020a" alt="demo" width=600>
+</p>
 ---
 ## Conclusion
 
