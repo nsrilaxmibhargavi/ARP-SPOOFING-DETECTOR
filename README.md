@@ -41,7 +41,7 @@ cd ARP-SPOOFING-DETECTOR
 
 ---
 <p align="center">
-       <img width="1024" height="564" alt="image_2026-01-10_22-25-00" src="https://github.com/user-attachments/assets/5dc652d8-e85c-4949-8b45-4e5991471f48">
+       <img width="700" height="564" alt="image_2026-01-10_22-25-00" src="https://github.com/user-attachments/assets/5dc652d8-e85c-4949-8b45-4e5991471f48">
 </p>
 
 ---
@@ -86,6 +86,7 @@ cd ARP-SPOOFING-DETECTOR
 <p align="center">
        <img src="https://github.com/user-attachments/assets/a9aa0ad4-ffba-4fb0-9405-386f017e020a" alt="demo" width=600>
 </p>
+
 ---
 
 ## Conclusion
