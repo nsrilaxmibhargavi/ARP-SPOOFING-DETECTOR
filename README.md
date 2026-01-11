@@ -3,13 +3,13 @@
        <img width="1280" height="674" alt="image_2026-01-10_22-25-10" src="https://github.com/user-attachments/assets/95e0ff92-1744-482a-8e30-f7312b105433">
 </p>
 
-<p align="center">
-       <img src="https://github.com/user-attachments/assets/aa714d18-0fd1-4ca2-84f8-d47d27ae60a4" alt="demo" width=600>
-</p>
 
 ## Definition
 ARP Spoofing Detection System is a network security application that monitors ARP (Address Resolution Protocol) traffic to detect malicious attempts where an attacker tries to associate their MAC address with a legitimate IP address. The system alerts the user when spoofing activity is detected and provides real-time monitoring through a graphical interface.
 
+<p align="center">
+       <img src="https://github.com/user-attachments/assets/aa714d18-0fd1-4ca2-84f8-d47d27ae60a4" alt="demo" width=600>
+</p>
 ---
 
 ## Project Objective
@@ -35,7 +35,7 @@ cd ARP-SPOOFING-DETECTOR
 - Ensure you have Python installed on your system.
 - Install the required dependencies.
 - Run the application:
-    python main.py
+    `python main.py`
 
 ---
 <p align="center">
@@ -83,6 +83,7 @@ cd ARP-SPOOFING-DETECTOR
        <img src="https://github.com/user-attachments/assets/a9aa0ad4-ffba-4fb0-9405-386f017e020a" alt="demo" width=600>
 </p>
 ---
+
 ## Conclusion
 
 This project demonstrates an effective approach to detecting ARP spoofing attacks using Python. By combining packet analysis with a user-friendly GUI and alert mechanisms, the system helps in identifying network threats in real time. The project highlights key cybersecurity concepts such as spoofing detection, incident monitoring, and alert generation, making it suitable for academic and practical security learning.
